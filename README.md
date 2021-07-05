@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Ernest Over here😀 Analyzing and Visualizing data!
+Ernest Over here😀 
+
+Analyzing and Visualizing data!📉📊📈
 <!--
 **mukaruernest/mukaruernest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
