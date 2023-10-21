@@ -2,13 +2,8 @@
 
 Ernest Over here😀 
 
-Analyzing and Visualizing data!📉📊📈
-
 Here are some things about me.
 
-- 🔭 I’m currently data and business Analyst
-- 🌱 I’m currently learning Marketting Analysis.
-- 💬 Ask me about anaything analytics.
 - 📫 How to reach me: `mukaruernesto@gmail.com`
 
 <!--
